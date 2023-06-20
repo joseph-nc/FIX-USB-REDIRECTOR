@@ -112,6 +112,6 @@ powershell write-host 'LISTO' -fore '"GREEN"'
 echo.
 pause
 
-start "" TCP_CONEXION_BY_JOSEPH.exe & exit
+exit
 @Exit
 
